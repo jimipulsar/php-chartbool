@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 50px auto;
+  width: 60%;
+  max-width: 1020px;
+  position: relative;
+}
+
+h1 {
+  text-align:center;
+  padding:20px;
+}
+
+#milestone-1 {
+  height:450px;
+  margin-bottom:80px;
+}
+
+#milestone-2-line {
+  height:450px;
+  margin-bottom:80px;
+
+}
+
+#milestone-2-pie {
+  height:450px;
+
+}
